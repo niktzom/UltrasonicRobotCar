@@ -7,5 +7,8 @@ To achieve that we used the Arduino microcontroller, an ultrasonic distance sens
 ## Images
 <details>
   <summary> A first model of our robot in the early stages of the project.</summary>
+  <br>
+  
 ![12324894_556751907810388_93377423_n](https://user-images.githubusercontent.com/81044861/116796614-7827b400-aae6-11eb-8415-288c1cd1bb84.jpg)
+
 </details>
