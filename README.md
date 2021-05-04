@@ -12,3 +12,20 @@ To achieve that we used the Arduino microcontroller, an ultrasonic distance sens
 ![12324894_556751907810388_93377423_n](https://user-images.githubusercontent.com/81044861/116796614-7827b400-aae6-11eb-8415-288c1cd1bb84.jpg)
 
 </details>
+
+## Videos
+ <details>
+  <summary>A timelapse during the making of our model.</summary>
+  <br>
+  
+  [![Ultrasonic Robot Timelapse](https://adrotog-yt-embed.herokuapp.com/embed?v=B7qMAWFoT9s)](https://www.youtube.com/watch?v=B7qMAWFoT9s)
+  </details>
+  
+  <details>
+  <summary>A small demo of our robot's capabilities.</summary>
+  <br>
+  
+  [![Small demo of our Robot](https://adrotog-yt-embed.herokuapp.com/embed?v=Kyjueknfntw)](https://www.youtube.com/watch?v=Kyjueknfntw)
+  </details>
+
+  
